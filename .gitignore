@@ -1,2 +1,5 @@
 # Ignore virtual environment directory
 my_venv/
+
+#ignore data
+data/
